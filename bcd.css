@@ -1,0 +1,50 @@
+body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(to right, black,#3533cd )
+}
+
+.title{
+margin: 20px;
+font-family:'標楷體' ;
+top:50px;
+font-style: normal;
+font-weight: 500;
+font-size: 100px;
+text-align: center;
+color: white;
+}
+
+.html{
+  position: relative;
+  top: 70px;
+  left: 180px;
+  color:white;
+  font-size: 110px;
+  font-family:'Courier New';
+  width: fit-content;
+}
+.css{
+  position: relative;
+  top: 70px;
+  left: 650px;
+  color:white;
+  font-size: 110px;
+  font-family:'Courier New';
+  width: fit-content;
+}
+.dash{
+position: relative;
+width:100%;
+top: 10px;
+border-bottom: 5px dashed white;
+z-index: -1;
+}
+.menu{
+margin:0px 80px 80px 80px;
+background-color: #d9d9d9;
+border:#183459 20px solid;
+border-radius: 20px;
+color:black;
+}
